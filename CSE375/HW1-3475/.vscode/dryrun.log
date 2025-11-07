@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/yinuoxu/Desktop/CSE 375/HW1-3475'
+make: Leaving directory `/Users/yinuoxu/Desktop/CSE 375/HW1-3475'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
